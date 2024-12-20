@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
         "api"
         "fmt"
@@ -26,4 +27,4 @@ func main() {
 
         router.Run("9.xx.xxx.xxx:8080")
 
-}
+}*/

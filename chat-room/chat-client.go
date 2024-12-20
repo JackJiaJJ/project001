@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
         "bufio"
         "flag"
         "fmt"
@@ -56,4 +56,4 @@ func handle(conn net.Conn) {
                 }
                 fmt.Println(string(data[:]))
         }
-}
+}*/
